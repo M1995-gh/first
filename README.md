@@ -13,4 +13,10 @@
   - html
   - css
   
-![icon pyt](https://www.pngall.com/wp-content/uploads/5/Python-Transparent.png)
+![imagepython](https://www.pngall.com/wp-content/uploads/5/Python-Transparent.png)
+
+'''python
+pip install pandas
+
+'''
+
