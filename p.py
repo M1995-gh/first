@@ -4,4 +4,6 @@ print f+m
 print f-m
 ssalam
 fff
+ggg
+hhh
 
